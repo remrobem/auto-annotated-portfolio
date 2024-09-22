@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/favicon.svg
+  url: /images/bg.jpg
   altText: Project image
 ---
 
