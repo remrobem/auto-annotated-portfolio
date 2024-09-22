@@ -26,4 +26,5 @@ backgroundImage:
   backgroundPosition: right
   backgroundRepeat: no-repeat
   opacity: 100
+author: content/data/team/sammy.json
 ---
