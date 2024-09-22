@@ -9,7 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/gallery-2.jpg
   altText: Post thumbnail image
-  caption: Caption of the image
+  caption: this is a thumbnail image
   elementId: ''
 media:
   type: ImageBlock
