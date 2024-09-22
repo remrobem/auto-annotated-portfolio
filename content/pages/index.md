@@ -48,6 +48,12 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: |
+      I AM SMART. 
+
+
+
+      Trust me
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
