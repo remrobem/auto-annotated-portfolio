@@ -23,7 +23,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg.jpg
   backgroundSize: cover
-  backgroundPosition: left-top
+  backgroundPosition: right-top
   backgroundRepeat: no-repeat
   opacity: 100
 ---
