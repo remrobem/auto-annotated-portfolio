@@ -38,7 +38,7 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
       title:
-        textAlign: right
+        textAlign: center
       subtitle:
         textAlign: left
         fontStyle: italic
